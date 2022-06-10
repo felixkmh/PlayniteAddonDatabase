@@ -3,7 +3,7 @@ IconUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/source/Libr
 Type: GameLibrary
 InstallerManifestUrl: https://raw.githubusercontent.com/JosefNemec/PlayniteExtensions/master/manifests/BattlenetLibrary_Builtin.yaml
 ShortDescription: Imports games from Battle.net library.
-Name: Battle.net library integration
+Name: Battle.net library integration test
 Author: Playnite
 Links:
     Website: https://github.com/JosefNemec/PlayniteExtensions
