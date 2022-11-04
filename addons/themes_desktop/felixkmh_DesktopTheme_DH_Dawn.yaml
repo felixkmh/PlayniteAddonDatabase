@@ -20,7 +20,7 @@ Description: |-
     platform banners, smoother animations for the progress bar and expanding controls, a context menu for the background image, link icons, 
     shortcut to go from grid to details view for a certain game, preserving selection when changing views, 
     toggle buttons to set favorites, toggle button to hide games, 
-    quick way to change completion status, star ratings, quick user ratings ...
+    quick way to change completion status, star ratings, quick user ratings...
     Supported extension integrations:
     - ThemeExtras
     - DuplicateHider
